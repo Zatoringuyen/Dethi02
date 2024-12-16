@@ -1,0 +1,15 @@
+D:\C#\De02_Database\Dethi02\Dethi02\bin\Debug\Dethi02.exe.config
+D:\C#\De02_Database\Dethi02\Dethi02\bin\Debug\Dethi02.exe
+D:\C#\De02_Database\Dethi02\Dethi02\bin\Debug\Dethi02.pdb
+D:\C#\De02_Database\Dethi02\Dethi02\bin\Debug\EntityFramework.dll
+D:\C#\De02_Database\Dethi02\Dethi02\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\De02_Database\Dethi02\Dethi02\bin\Debug\EntityFramework.xml
+D:\C#\De02_Database\Dethi02\Dethi02\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\De02_Database\Dethi02\Dethi02\obj\Debug\Dethi02.csproj.AssemblyReference.cache
+D:\C#\De02_Database\Dethi02\Dethi02\obj\Debug\Dethi02.Form1.resources
+D:\C#\De02_Database\Dethi02\Dethi02\obj\Debug\Dethi02.Properties.Resources.resources
+D:\C#\De02_Database\Dethi02\Dethi02\obj\Debug\Dethi02.csproj.GenerateResource.cache
+D:\C#\De02_Database\Dethi02\Dethi02\obj\Debug\Dethi02.csproj.CoreCompileInputs.cache
+D:\C#\De02_Database\Dethi02\Dethi02\obj\Debug\Dethi02.csproj.Up2Date
+D:\C#\De02_Database\Dethi02\Dethi02\obj\Debug\Dethi02.exe
+D:\C#\De02_Database\Dethi02\Dethi02\obj\Debug\Dethi02.pdb
